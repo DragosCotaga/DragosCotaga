@@ -6,7 +6,12 @@
   <body>
     <header>
       <h1>Hi there!</h1>
+      <div align="center">
       <img src="https://i.postimg.cc/N0fGZXXb/Career-Roadmap.png" alt="Career Roadmap">
+      <a href="https://github.com/DragosCotaga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DragosCotaga&show_icons=true&theme=transparent" alt="DragosCotaga's GitHub stats" />
+</a>
+      </div>
     </header>
     <main>
       <section>
