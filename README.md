@@ -6,6 +6,7 @@
   <body>
     <header>
       <h1>Hi there!</h1>
+![Career-Roadmap.png](https://i.postimg.cc/N0fGZXXb/Career-Roadmap.png)
     </header>
     <main>
       <section>
