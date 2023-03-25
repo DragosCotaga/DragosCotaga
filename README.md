@@ -46,5 +46,5 @@ I'm Dragos, a software engineering student with experience in JavaScript, Java, 
 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <li>
-  1.
+  <a href="https://medium.com/@dragos.cotaga.dk/how-to-create-a-fantastic-github-profile-d4b0cf4f9927" target="_blank">How to Create a Fantastic GitHub Profile</a>
   </li>
