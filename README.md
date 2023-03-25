@@ -1,5 +1,10 @@
-Hi there! 👋
-I'm Dragos, a software engineering student with experience in JavaScript, Java, C#, .NET, HTML, CSS, and SQL. I am passionate about creating software that solves real-world problems and improves people's lives.
+<div style="display: flex; justify-content: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I%27m+Dragos+%F0%9F%91%8B" alt="Typing SVG">
+  </a>
+</div>
+
+A software engineering student with experience in JavaScript, Java, C#, .NET, HTML, CSS, and SQL. I am passionate about creating software that solves real-world problems and improves people's lives.
 
 📈 GitHub Stats
 <div align="center">
