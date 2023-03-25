@@ -44,6 +44,10 @@
     </main>
     <footer>
       <p>&copy; 2023 Dragoste. All rights reserved.</p>
+      <div align="center">
+  <h3>Profile Views</h3>
+  <img src="https://profile-counter.glitch.me/DragosCotaga/count.svg" alt="Visitor Count" />
+</div>
     </footer>
   </body>
 </html>
