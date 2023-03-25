@@ -39,10 +39,10 @@ A software engineering student with experience in JavaScript, Java, C#, .NET, HT
 🔭 Projects
 <ul>
   <li>
-    <a href="https://github.com/DragosCotaga/SEP">SEP1 - Single User System for Overlook Hotel</a> - A software project that manages the reservations of the hotel.
+    <a href="https://github.com/DragosCotaga/SEP">SEP1 - Hotel Booking App (Single User System)</a> - This project is a software system designed to manage reservations at the Overlook Hotel. It is intended for use by a single user and includes features such as booking management, customer information tracking, and room availability updates.
   </li>
   <li>
-    <a href="https://github.com/DragosCotaga/SEP2">SEP2 - Book Store App (Client-Server System)</a> - A client-server system for managing a bookstore's inventory and sales.
+    <a href="https://github.com/DragosCotaga/SEP2">SEP2 - Book Store App (Client-Server System)</a> - This project is a client-server system that is designed to manage inventory and sales at a bookstore. It includes features such as product management, customer orders, and multiple roles accounts.
   </li>
 </ul>
 📫 Contact Me
