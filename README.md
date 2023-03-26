@@ -10,6 +10,7 @@ A software engineering student with experience in JavaScript, Java, C#, .NET, HT
 <div align="center">
   <a href="https://github.com/DragosCotaga">
     <img src="https://github-readme-stats.vercel.app/api?username=DragosCotaga&show_icons=true&theme=transparent" alt="DragosCotaga's GitHub Stats" />
+    <img src="https://leetcode-stats-six.vercel.app/api?username=DragosCotaga&theme=dark" alt="LeetCode Stats" />
 <img src="https://raw.githubusercontent.com/DragosCotaga/DragosCotaga/main/Blue%20Modern%20Futuristic%20Business%20Roadmap.gif" alt="Blue Modern Futuristic Business Roadmap">
   </a>
 </div>
