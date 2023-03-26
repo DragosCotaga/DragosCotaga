@@ -6,7 +6,7 @@
 
 A software engineering student with experience in JavaScript, Java, C#, .NET, HTML, CSS, and SQL. I am passionate about creating software that solves real-world problems and improves people's lives.
 
-📈 GitHub Stats
+📈 GitHub Stats | LeetCode Stats
 <div align="center">
   <a href="https://github.com/DragosCotaga">
     <img src="https://github-readme-stats.vercel.app/api?username=DragosCotaga&show_icons=true&theme=transparent" alt="DragosCotaga's GitHub Stats" />
