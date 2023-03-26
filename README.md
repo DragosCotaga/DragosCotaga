@@ -44,15 +44,20 @@ A software engineering student with experience in JavaScript, Java, C#, .NET, HT
   <li>
     <a href="https://github.com/DragosCotaga/SEP2">SEP2 - Book Store App (Client-Server System)</a> - This project is a client-server system that is designed to manage inventory and sales at a bookstore. It includes features such as product management, customer orders, and multiple roles accounts.
   </li>
+  <li>
+    <a href="https://github.com/DragosCotaga/LeetCode">LeetCode</a> - This repository contains all of the coding exercises that I completed on LeetCode.com.
 </ul>
 📫 Contact Me
 <p>Feel free to contact me at <a href="mailto:dragos.cotaga.dk@gmail.com">dragos.cotaga.dk@gmail.com</a> if you have any questions or want to collaborate on a project.</p>
 
 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+<ul>
 <li>
   <a href="https://medium.com/@dragos.cotaga.dk/how-to-create-a-fantastic-github-profile-d4b0cf4f9927" target="_blank">How to Create a Fantastic GitHub Profile</a>
   </li>
   <li>
   <a href="https://medium.com/@dragos.cotaga.dk/minimalism-101-how-to-free-yourself-from-clutter-and-achieve-your-goals-in-2023-73b3caeefe9b" target="_blank">Minimalism 101: How to Free Yourself from Clutter and Achieve Your Goals in 2023</a>
+  </li>
+  </ul>
   
