@@ -60,5 +60,7 @@ A software engineering student with experience in JavaScript, Java, C#, .NET, HT
   <li>
   <a href="https://medium.com/@dragos.cotaga.dk/minimalism-101-how-to-free-yourself-from-clutter-and-achieve-your-goals-in-2023-73b3caeefe9b" target="_blank">Minimalism 101: How to Free Yourself from Clutter and Achieve Your Goals in 2023</a>
   </li>
+  <li>
+    <a href="https://medium.com/@dragos.cotaga.dk/the-value-of-logging-out-how-taking-a-pause-from-yourself-can-ignite-your-creativity-and-5571dcb01ea7" target="_blank">The Value of Logging Out: How Taking a Pause from Yourself Can Ignite Your Creativity and Efficiency</a>
   </ul>
   
