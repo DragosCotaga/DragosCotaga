@@ -62,5 +62,9 @@ A software engineering student with experience in JavaScript, Java, C#, .NET, HT
   </li>
   <li>
     <a href="https://medium.com/@dragos.cotaga.dk/the-value-of-logging-out-how-taking-a-pause-from-yourself-can-ignite-your-creativity-and-5571dcb01ea7" target="_blank">The Value of Logging Out: How Taking a Pause from Yourself Can Ignite Your Creativity and Efficiency</a>
+  </li>
+  <li>
+  <a href="https://medium.com/@dragos.cotaga.dk/the-importance-of-poetry-capturing-complex-emotions-fostering-empathy-and-inspiring-positive-4c0e4a8b8302" target="_blank">The Importance of Poetry: Capturing Complex Emotions, Fostering Empathy, and Inspiring Positive Change</a>
+  </li>
   </ul>
   
