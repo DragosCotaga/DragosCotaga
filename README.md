@@ -58,13 +58,13 @@ A software engineering student with experience in JavaScript, Java, C#, .NET, HT
   <a href="https://medium.com/@dragos.cotaga.dk/how-to-create-a-fantastic-github-profile-d4b0cf4f9927" target="_blank">How to Create a Fantastic GitHub Profile</a>
   </li>
   <li>
-  <a href="https://medium.com/@dragos.cotaga.dk/minimalism-101-how-to-free-yourself-from-clutter-and-achieve-your-goals-in-2023-73b3caeefe9b" target="_blank">Minimalism 101: How to Free Yourself from Clutter and Achieve Your Goals in 2023</a>
+  <a href="https://medium.com/@dragos.cotaga.dk/corecore-unleashing-tiktoks-emotional-revolution-17e121b6cfd8" target="_blank">#corecore: Unleashing TikTok’s Emotional Revolution</a>
   </li>
   <li>
-    <a href="https://medium.com/@dragos.cotaga.dk/the-value-of-logging-out-how-taking-a-pause-from-yourself-can-ignite-your-creativity-and-5571dcb01ea7" target="_blank">The Value of Logging Out: How Taking a Pause from Yourself Can Ignite Your Creativity and Efficiency</a>
+    <a href="https://medium.com/@dragos.cotaga.dk/embracing-the-subtle-art-of-not-giving-a-f-ck-my-personal-journey-b598dea8178e" target="_blank">Embracing the Subtle Art of Not Giving a F*ck: My Personal Journey</a>
   </li>
   <li>
-  <a href="https://medium.com/@dragos.cotaga.dk/the-importance-of-poetry-capturing-complex-emotions-fostering-empathy-and-inspiring-positive-4c0e4a8b8302" target="_blank">The Importance of Poetry: Capturing Complex Emotions, Fostering Empathy, and Inspiring Positive Change</a>
+  <a href="https://medium.com/@dragos.cotaga.dk/unlocking-the-secrets-of-jordan-petersons-daily-routine-what-i-learned-from-following-it-for-a-7586b91e1125" target="_blank">Unlocking the Secrets of Jordan Peterson’s Daily Routine: What I Learned from Following it for a Week</a>
   </li>
   </ul>
   
