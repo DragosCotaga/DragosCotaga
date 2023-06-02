@@ -50,6 +50,29 @@ A software engineering student with experience in JavaScript, Java, C#, .NET, HT
   <li>
     <a href="https://github.com/DragosCotaga/LeetCode">LeetCode</a> - This repository contains all of the coding exercises that I completed on LeetCode.com.
 </ul>
+
+<div align="center">
+  <h2>📚 Repositories I Recommend</h2>
+  <p>I've found the following repositories to be incredibly useful for learning and development. I highly recommend checking them out!</p>
+  <ul>
+    <li>
+      <a href="https://github.com/practical-tutorials/project-based-learning" target="_blank">Project-Based Learning</a> - A curated list of project-based tutorials.
+    </li>
+    <li>
+      <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">Free Programming Books</a> - Freely available programming books.
+    </li>
+    <li>
+      <a href="https://github.com/donnemartin/system-design-primer" target="_blank">System Design Primer</a> - Learn how to design large-scale systems.
+    </li>
+    <li>
+      <a href="https://github.com/kamranahmedse/design-patterns-for-humans" target="_blank">Design Patterns for Humans</a> - An ultra-simplified explanation of design patterns.
+    </li>
+    <li>
+      <a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Developer Roadmap</a> - Roadmap to becoming any kind of developer in 2023.
+    </li>
+  </ul>
+</div>
+
 📫 Contact Me
 <p>Feel free to contact me at <a href="mailto:dragos.cotaga.dk@gmail.com">dragos.cotaga.dk@gmail.com</a> if you have any questions or want to collaborate on a project.</p>
 
