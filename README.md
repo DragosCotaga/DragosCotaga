@@ -46,6 +46,8 @@ A software engineering student with experience in JavaScript, Java, C#, .NET, HT
     <a href="https://github.com/DragosCotaga/SEP2">SEP2 - Book Store App (Client-Server System)</a> - This project is a client-server system that is designed to manage inventory and sales at a bookstore. It includes features such as product management, customer orders, and multiple roles accounts.
   </li>
   <li>
+    <a href="https://github.com/DragosCotaga/SEP3">SEP3 - Progresso - Project Management Tool (Three tier system)</a> - This project is based on three tier system architecture designed to manage projects and tasks within them. It includes features such as project management, task management and real-time collaboration.
+  <li>
     <a href="https://github.com/DragosCotaga/LeetCode">LeetCode</a> - This repository contains all of the coding exercises that I completed on LeetCode.com.
 </ul>
 📫 Contact Me
